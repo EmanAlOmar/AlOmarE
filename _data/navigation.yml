@@ -1,0 +1,22 @@
+# main links links
+main:
+  - index: "PL Researcher"
+    url: /index/
+
+  - title: "About"
+    url: /about/
+
+  - title: "Community Service"
+    url: /community/
+
+  - title: "Publications"
+    url: /publications/
+
+  # - title: "Teaching"
+  #   url: /teaching/
+
+  # - title: "Blog Posts"
+  #   url: /year-archive/
+
+  - title: "CV"
+    url: /cv/
