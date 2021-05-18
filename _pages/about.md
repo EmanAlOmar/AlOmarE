@@ -7,7 +7,7 @@ author_profile: true
 
 ## About
 
-I am a programming language researcher interested in languages, compilers, functional
+I am a software engineering researcher interested in languages, compilers, functional
 programming, static and dynamic optimisations and type systems. I live in Uppsala
 with my lovely wife and my 2-year old son, Kai.
 
